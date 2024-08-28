@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Anu-cs&label=Profile%20views&color=0e75b6&style=flat" alt="Anu-cs" /> </p>
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [YOUR_MAIL](mailto:YOUR_MAIL)
+* ✉️  You can contact me at [anusuyaghosal2001@gmail.com](mailto:anusuyaghosal2001@gmail.com)
 * 🧠  I'm learning Machine Learning & AI
 * ⚡  I'm a Singer
 
